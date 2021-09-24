@@ -1,4 +1,4 @@
-This is the github repository for the paper titled Online semi-supervised learning from evolving data streams with meta-features and deep reinforcement learning. Please note that this page is still in progress and might change in the future. 
+This is the github repository for the paper titled Online semi-supervised learning from evolving data streams with meta-features and deep reinforcement learning. Please note that this page is still in progress and might change in the future. The paper will be published in the precedings of LOD conference 2021.
 
 The flowchart of the Online Reinforce algorithm can be seen below:
 
